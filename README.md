@@ -1,52 +1,55 @@
-# 👋 Hi World, I'm Json Rivera!
-*Welcome to my Repo*
+# 👋 ¡Hola! Soy Yeison (Json) Rivera
+
+*Data Engineer | IT Architecture Specialist | Software Engineering Student*
+
 <img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGtqeWZuZmRmcGZnMDk1bHliemo3MXl2eTB3N3RheDY4YmF6dzY2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUyrMCdgrOL3ntbTvK/giphy.gif" width="230" style="margin-top:-20px; border-radius:50%">
 
-[![Twitter: JasRockr](https://img.shields.io/twitter/follow/JasRockr?style=social)](https://twitter.com/JasRockr)
 [![Linkedin: jsonrivera](https://img.shields.io/badge/-jsonrivera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jsonrivera/)](https://www.linkedin.com/in/jsonrivera/)
 [![GitHub JasRockr](https://img.shields.io/github/followers/jasrockr?label=follow&style=social)](https://github.com/jasrockr)
 
+*Welcome to my Repo*
 
-## About Me
+## Sobre mí 🚀
 
-Passionate IT professional with over 10 years of experience spanning various aspects of the technological life cycle. Focused on solution development and application support, my skill set extends from scripting to database management and the creation of efficient workflows.
+Ingeniero de Datos y Profesional de TI con más de **8 años de trayectoria**. Mi enfoque principal es el diseño y optimización de arquitecturas de datos modernas y el desarrollo de soluciones backend escalables.
 
-Specialized in data architecture, relational databases, and business intelligence, my focus is on performance optimization and process automation. 
+Me especializo en actuar como **enlace estratégico** entre las necesidades del negocio y la implementación técnica. Utilizo mi pensamiento crítico para traducir requerimientos complejos en soluciones funcionales de alto impacto que impulsan la eficiencia operativa.
 
-Always seeking challenges that demand critical thinking and effective decision-making.
+### En lo que estoy trabajando actualmente
 
-### A little more about me...  
+- 🏗️ Implementación de arquitecturas de datos en **GCP (BigQuery, Airbyte, Compute Engine)**.
+- 🐍 Orquestación de flujos de datos con **Apache Airflow**.
+- 📊 Modelado de datos bajo arquitectura **Medallion** [Raw, Staging, Curated].
+- 🐧 Administración de entornos híbridos **Linux (Nativo/SSH)** y **Windows (WSL2)**.
 
-``` Javascript
+---
 
+### Stack 🛠️
+
+```javascript
 const jasrockr = {
-  pronouns: "He" | "him",
-  code: ["Javascript", "HTML", "CSS", "PHP", "Python", "Scripting", "SQL", "DAX", "VBA", "SAP BODS"],
-  tools: ["Node.js", "Laravel", "SQL Server", "PostgreSQL", "Oracle", "PowerBI", "React", "Styled-Components", "Sass"],
-  techKnowledge: [
-    "Data Architecture",
-    "Relational Databases",
-    "Data Management",
-    "Business Intelligence",
-    "Performance Optimization",
-    "Data Warehouse",
-    "Workflows & Pipelines",
-    "Backend Workflow",
-    "API-Rest",
-  ],
-  skills: [
-    "Solution Development",
-    "Critical Thinking",
-    "Decision Making",
-    "Problem Solving & Analysis",
-    "Process Automation",
-    "Applications Support",
+  role: "Data Engineer / IT Architect",
+  education: ["Software Engineering (In progress)", "Systems Technologist", "Systems Technician"],
+  languages: {
+    backend: ["Python", "Node.js", "PHP", "T-SQL"], 
+    scripting: ["Bash", "PowerShell", "VBA"], 
+    data: ["SQL (Server, PostgreSQL, Oracle)", "DAX", "RegEx"] 
+  },
+  cloud_data: {
+    stack: ["GCP", "BigQuery", "Airbyte", "Airflow", "dbt"], 
+    traditional_etl: ["SAP BODS", "Talend", "ETL/ELT"] 
+  },
+  tools: ["Docker/Podman", "Git/GitHub (Gitflow)", "Linux/SSH", "Power BI"], 
+  soft_skills: [
+    "Strategic Bridge (Business-Tech)", 
+    "Analytical & Critical Thinking", 
+    "Process Automation", 
+    "Documentation & Standardization" 
   ]
 };
 
 ```
 
-**I like to connect with people who think differently. I learn from everything.  
-If you want to say hi, I'd love to meet you!**
+**Me gusta conectar con personas que piensan de manera diferente y que ven la tecnología como un motor de cambio. Disfruto aprendiendo y encontrando soluciones.**
 
----
+**Si quieres saludar, ¡me encantaría conocerte!**
