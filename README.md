@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Yeison (Json) Rivera
+# 👋 ¡Hola!
 
 *Data Engineer | IT Architecture Specialist | Software Engineering Student*
 
